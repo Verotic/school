@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.videofundo{
+    width: 100px;
+    height: 100px;
+}
+header{
+    text-align: center;
+}
+#icon{
+    font-size: 50px;
+}
+#navigation{
+    text-align: center;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+#centro{
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 30px;
+    text-align: center;
+}
+td{
+    padding: 25px;
+    margin: 50px;
+}
+#logo{
+    padding-left: 250px;
+} 
+a:active, a:link, a:visited{
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+    background-color: darkgray;
+}
+a:hover{
+    color: white;
+}
